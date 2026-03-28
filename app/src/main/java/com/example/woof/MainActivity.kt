@@ -196,10 +196,10 @@ fun WoofPreview() {
     }
 }
 
-/*@Preview
+@Preview
 @Composable
 fun WoofDarkThemePreview(modifier: Modifier = Modifier) {
     WoofTheme(darkTheme = true) {
         WoofApp()
     }
-}*/
+}
